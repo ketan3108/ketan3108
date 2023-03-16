@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ketan Nikumbh</h1>
 <h3 align="center">Tech-Savvy Guy with a Passion for Innovation !!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ketan3108" alt="ketan3108" /></a> </p>
-
 - 🌱 I’m currently learning **JavaScript**
 
 - 🤝 I’m looking for help with **Open Source Contribution**
