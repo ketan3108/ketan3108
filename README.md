@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ketan Nikumbh</h1>
 <h3 align="center">Tech-Savvy Guy with a Passion for Innovation !!</h3>
 
-  <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47z2xepw4y9o5zln4tz9ts36qkmonnsyyln604d020&rid=giphy.gif&ct=g" alt="ketan3108" style="float: right; margin-right: 10px;">
+  <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47z2xepw4y9o5zln4tz9ts36qkmonnsyyln604d020&rid=giphy.gif&ct=g" alt="ketan3108" style="float: right"; margin-right: 10px;">
   <p style="text-align: left;">
   - 🌱 I’m currently learning **JavaScript**
 
